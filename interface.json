@@ -1,0 +1,6 @@
+{
+    "mcu_hv_en": [2, "bool", 0, 1],
+    "mppt_overvoltage_fault_reset": [2,"bool", 0, 1],
+    "speed_target": [4, "float", 0, 100],
+    "energy_target": [4, "float", 0, 2000]
+}
